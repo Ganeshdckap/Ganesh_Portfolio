@@ -9,7 +9,9 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-
+.webicon{
+  border-radius: 50px;
+}
 header {
   background-color: #25b79f;
   height: 100vh;
